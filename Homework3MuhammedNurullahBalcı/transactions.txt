@@ -1,0 +1,2 @@
+burger	15	5
+cola	4	1
